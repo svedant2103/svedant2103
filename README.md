@@ -48,11 +48,30 @@ Email Me 👉 ✉️ **[svedant2103@gmail.com]** for collaborations, projects, o
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=svedant2103&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+
+### 🔝 Top Contributed Repos
+
+<div align="left">
+
+<table>
+  <tr><td>🚀 <a href="https://github.com/svedant2103/Future_Intern">Future_Intern</a></td></tr>
+  <tr><td>🔎 <a href="https://github.com/svedant2103/Research-Internship-Project---Crime-Sensitive-Navigation-System">Crime_Navigation</a></td></tr>
+  <tr><td>🤖 <a href="https://github.com/svedant2103/Generative_AI">Generative_AI</a></td></tr>
+  <tr><td>💊 <a href="https://github.com/svedant2103/IIIT-Sonepat-Minor-Project---Predicting-Drug-Consumption">Drug_Prediction</a></td></tr>
+  <tr><td>📊 <a href="https://github.com/svedant2103/Diginique_TechlabsIITRoorkee-Covid-19-Data-Analysis-Project">Covid_Analysis</a></td></tr>
+</table>
+
+</div>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=svedant2103&icon=6&color=4)](https://visitcount.itsvg.in)
+
+
+
+
+
+
 
   ## 💰 You can help me by Donating
   [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow)](https://buymeacoffee.com/YourUsername)
